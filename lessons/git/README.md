@@ -94,4 +94,14 @@ git push origin ${branch_name}
 
 Now that your changes are in a branch, they are not in master yet, you can merge these changes through the github UI.
 
-1. Open a Pull Request
+1. View your branches and click on the feature branch you just pushed.
+
+![View Branches](img/branches-repo.JPG)
+
+2. Select the branch and compare & open a pull-request. Add the neccessary description, etc.
+
+![Pull Request](img/pull-request.JPG)
+
+3. Now the owner of the repository can review the code and approve, request changes, or decline the pull request. Because your are the owner of the repository, you can approve your own pull request by selecting the merge pull request button.
+
+![Approve](img/approve-pr.JPG)
