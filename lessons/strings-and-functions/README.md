@@ -67,7 +67,7 @@ In programming, we have objects that represent different types of data, each of 
 
 4. Make sure to provide a name without `-` or ` ` spaces in the name. Use `_` underscores if you want to seperate words. After creation, PyCharm may ask you if you want to add this script to your git repository, either answer is fine, as you will still have to perform manual git operations later in your preferred terminal to commit the changes to your repository.
 
-![Strings and Functions](img/strings_and_functions.png)
+![Strings and Functions](img/string_and_functions.png)
 
 5. Create a debugging configuration. Make sure you have the interpreter pointing to a valid Python installation. PyCharm should do this by default. If you can't figure this out, let me know, I can help.
 
