@@ -101,7 +101,7 @@ print('String 3: %s' % (this_is_also_also_a_string))
 
 8. Run the script in debugging mode.
 
-![Debugging Mode](img/debugging-mode.png)
+![Debugging Mode](img/debugg-mode.png)
 
 9. Inspect the Debugger that pops up. You can now see the different variable values at your breakpoint. You can also view the current output by clicking on the Console tab.
 
