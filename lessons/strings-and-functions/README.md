@@ -200,4 +200,4 @@ toast = toaster(bread)
 print('Toast type: %s' % (toast))
 ```
 
-2. Play around with the bread type to see the different responses.
+2. Play around with the bread type to see the different responses. You can also edit the comparisons as well.
