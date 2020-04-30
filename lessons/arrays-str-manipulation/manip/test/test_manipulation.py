@@ -1,6 +1,6 @@
 # test_capitalize.py
 
-from .manipulation import good_memo
+from manip.code.manipulation import good_memo
 import pytest
 
 def test_memo():
