@@ -97,8 +97,9 @@ In the code subfolder.
 lesson-plan
   > lessons
     > arrays-str-manipulation
-      > code
-        - manipulation.py
+      > manip
+        > code
+          - manipulation.py
 ```
 You will find `manipulation.py`
 
