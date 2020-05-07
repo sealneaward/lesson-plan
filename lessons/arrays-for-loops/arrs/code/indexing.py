@@ -23,6 +23,11 @@ names = [
 
 # find all indexes of names that start  with letter 'R'
 indexes_of_first = []
-
+for i, name in enumerate(names):
+    if name[0] == 'R':
+        indexes_of_first.append(i)
 # find all indexes of names that end with letter 'r'
 indexes_of_last = []
+for i, name in enumerate(names):
+    if name[-1] == 'r':
+        indexes_of_last.append(i)
