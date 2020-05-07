@@ -18,3 +18,5 @@ Another great tool, that is great for first time learners is PyCharm, which is a
 2. [Python Strings and Functions](https://github.com/sealneaward/lesson-plan/blob/master/lessons/strings-and-functions/README.md)
 
 3. [Python String Manipulation](https://github.com/sealneaward/lesson-plan/blob/master/lessons/arrays-str-manipulation/README.md)
+
+3. [Python Arrays and For Loops](https://github.com/sealneaward/lesson-plan/blob/master/lessons/arrays-for-loops/README.md)
